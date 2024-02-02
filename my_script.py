@@ -1,5 +1,5 @@
 import logging
-from practice import log_init
+from chronicler import log_init
 from pathlib import Path
 
 
