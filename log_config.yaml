@@ -7,7 +7,8 @@ log_errors: true
 log_debug: true
 
 # meta info
-start_time: true
+log_file: true
+start_time: false
 os_version: true
 python_version: true
 whoami: true
